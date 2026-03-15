@@ -21,4 +21,4 @@ A complete, cycle-accurate implementation of a pipelined RISC-V processor design
 3. You can step through the clock cycles to observe the propagation of signals across the datapath.
 
 ## About the Author
-Developed by Dhruv during his First Semester at IIT Delhi (2024)
+Developed by Dhruv during his first semester at IIT Delhi (2024)
